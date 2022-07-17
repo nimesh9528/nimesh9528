@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nimesh9528
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in WEB DEVELOPMENT 
 - 🌱 I’m currently learning java8
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me nimesh9528@gamil.com
