@@ -9,6 +9,7 @@
 - CSS 
 - Javascript 
 - C++
+- React
 #### LinkedIn 
 - https://www.linkedin.com/in/nimesh-sharma-429a47203/
 <!---
